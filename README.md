@@ -1,0 +1,3 @@
+# git-essentials
+
+MASTER BRANCH
